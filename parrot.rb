@@ -3,4 +3,4 @@
 def parrot(string = "Squawk!")
   return parrot(string = "Squawk!")
 end
-parrot()
+parrot(string)
